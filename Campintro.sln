@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Klassintro", "Klassintro\Klassintro.csproj", "{C861D354-BCB0-4679-BBBE-D98BFCBA3414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methots", "Methots\Methots.csproj", "{DF0CB17C-FFF6-48A6-BAF7-5BC3F19CA1CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methots", "Methots\Methots.csproj", "{DF0CB17C-FFF6-48A6-BAF7-5BC3F19CA1CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matemetik", "Matemetik\Matemetik.csproj", "{142BA774-0658-4FAF-AEE9-A1964C57A324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemetik", "Matemetik\Matemetik.csproj", "{142BA774-0658-4FAF-AEE9-A1964C57A324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{19F8E61D-D160-4E62-BC2B-1C5EA9DC0621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{19F8E61D-D160-4E62-BC2B-1C5EA9DC0621}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
